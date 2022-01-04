@@ -28,6 +28,7 @@
 ### React
 
 - :white_check_mark:[从零搭建React全家桶框架教程](https://github.com/brickspert/blog/issues/1)「非常有用的文章，博主是 ahooks 作者，很优秀，这个是 17 年写的文章，足以看出个人沉淀。如标题所示“零基础”，目前是第一次读完，打算还要跟着再手写一遍，感谢博主的分享，真是学到了！关于 webpack 那块讲解的很详细到位，对于一些潜在的问题也会拓展，而技术发展也比较快，一些版本可能已经更新了，在这里标记一下我会写一份 22 年的搭建教程，向优秀的博主学习」
+- :white_check_mark:[助你完全理解React高阶组件（Higher-Order Components）](https://github.com/brickspert/blog/issues/2)「这篇文章内容不是很多，但是非常经典，开头用函数来模拟高阶组件，这一块基本上就可以理解高阶组件了，之后有一个很关键点，就是引入了 redux，这个是真的有用，之前学习的时候都没有弄明白 redux 为什么要这么做，现在醍醐灌顶，点赞，不过由于是 17 年的，所以写法上以 class 语法，之后在新版 react 官网文档看看 hooks 版本的高阶组件介绍吧」
 
 
 ### 技术人生
