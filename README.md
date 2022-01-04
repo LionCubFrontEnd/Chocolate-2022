@@ -31,6 +31,10 @@
 - :white_check_mark:[助你完全理解React高阶组件（Higher-Order Components）](https://github.com/brickspert/blog/issues/2)「这篇文章内容不是很多，但是非常经典，开头用函数来模拟高阶组件，这一块基本上就可以理解高阶组件了，之后有一个很关键点，就是引入了 redux，这个是真的有用，之前学习的时候都没有弄明白 redux 为什么要这么做，现在醍醐灌顶，点赞，不过由于是 17 年的，所以写法上以 class 语法，之后在新版 react 官网文档看看 hooks 版本的高阶组件介绍吧」
 
 
+### React Router
+
+- :white_check_mark:[react-router v4 使用 history 控制路由跳转](https://github.com/brickspert/blog/issues/3)「关于 react-router 的一些思考，主要是关于这个 history 跳转的问题，其中例举了三种方法，不过现在看组内写的代码，是在使用 react-router-dom 中的 useHistory，这个用起来比较方便，直接在组件中 `const history = useHistory();` 使用即可」
+
 ### 技术人生
 
 - :white_check_mark:[2022年如何成为一名优秀的大前端Leader？](https://juejin.cn/post/7034419410706104356)「优秀的前端Leader要学会适当的拒绝，学会说No。并不是做的越多越好，而是让团队做的少价值高才好。这背后其实是当下互联网技术发展到一定阶段，出现了专业壁垒的问题。需要更加了解业务，了解技术的专业人士来制定方案。」
