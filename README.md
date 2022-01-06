@@ -35,6 +35,11 @@
 
 - :white_check_mark:[react-router v4 使用 history 控制路由跳转](https://github.com/brickspert/blog/issues/3)「关于 react-router 的一些思考，主要是关于这个 history 跳转的问题，其中例举了三种方法，不过现在看组内写的代码，是在使用 react-router-dom 中的 useHistory，这个用起来比较方便，直接在组件中 `const history = useHistory();` 使用即可」
 
+
+### Redux
+
+- :white_check_mark:[完全理解 redux（从零实现一个 redux）](https://github.com/brickspert/blog/issues/22)「这篇文章真的是高赞👍🏻，过去那会关于 redux 理解还不够清晰，看完了之后醍醐灌顶，我是看了两遍才理解清楚，第一遍的时候有些地方感觉看的不是很明白，第二遍看的时候就彻底懂了，发现发布-订阅这种设计模式到处都有用到，以及那个 compose 源码的写法，难怪以前看面试题的时候经典遇到要用 reduce 写法，好神奇的感觉，不知不觉就被带入这块知识当中。但我觉得最精华的部分应该就是中间件那块了，过去学习 Koa 的时候就有遇到中间件的概念，但是一直没理解明白，这次看到 redux 文章之后一下就明白了，博主真是十分用心，膜拜，我觉得对于 redux 不太理解或者仅仅使用的同学都可以看一看，最棒的教程」
+
 ### 技术人生
 
 - :white_check_mark:[2022 年如何成为一名优秀的大前端 Leader？](https://juejin.cn/post/7034419410706104356)「优秀的前端Leader要学会适当的拒绝，学会说No。并不是做的越多越好，而是让团队做的少价值高才好。这背后其实是当下互联网技术发展到一定阶段，出现了专业壁垒的问题。需要更加了解业务，了解技术的专业人士来制定方案。」
@@ -44,4 +49,13 @@
 ### 工具库
 
 - [60+ 实用 React 工具库，助力你高效开发！](https://juejin.cn/post/7036162494573838367)
+
+
+### 版权申明
+
+博客中的每篇文章都是我一字一句敲出来的，如需转载，请附上原文链接，表示对原作者的尊重。谢谢合作！
+
+### 排版
+
+笔记内容按照 <a href="https://mazhuang.org/wiki/chinese-copywriting-guidelines/">中文文案排版指北</a>进行排版。
 
