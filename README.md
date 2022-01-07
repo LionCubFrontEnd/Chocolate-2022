@@ -29,7 +29,7 @@
 
 - :white_check_mark:[从零搭建 React 全家桶框架教程](https://github.com/brickspert/blog/issues/1)「非常有用的文章，博主是 ahooks 作者，很优秀，这个是 17 年写的文章，足以看出个人沉淀。如标题所示“零基础”，目前是第一次读完，打算还要跟着再手写一遍，感谢博主的分享，真是学到了！关于 webpack 那块讲解的很详细到位，对于一些潜在的问题也会拓展，而技术发展也比较快，一些版本可能已经更新了，在这里标记一下我会写一份 22 年的搭建教程，向优秀的博主学习」
 - :white_check_mark:[助你完全理解 React 高阶组件（Higher-Order Components）](https://github.com/brickspert/blog/issues/2)「这篇文章内容不是很多，但是非常经典，开头用函数来模拟高阶组件，这一块基本上就可以理解高阶组件了，之后有一个很关键点，就是引入了 redux，这个是真的有用，之前学习的时候都没有弄明白 redux 为什么要这么做，现在醍醐灌顶，点赞，不过由于是 17 年的，所以写法上以 class 语法，之后在新版 react 官网文档看看 hooks 版本的高阶组件介绍吧」
-
+- :white_check_mark:[从零实现一个 tiny hooks，知其然知其所以然](https://github.com/brickspert/blog/issues/26)「这里我改了博主的原标题【React Hooks 原理】，为啥呢，博主这篇文章也写得不错，从零实现了一个 tiny hooks，不过对于开篇提的几个问题，在后续解释的时候略微简单，第一遍读的时候还是觉得有点懵，就那些问题如果没有看其它一些介绍的话还不太清楚，所以这篇读的话后续有点吃力，但这个实现的 tiny hooks 还是比较出神入化的，讲的比较清楚，至于后面 React 官方用链表实现那里就结束了，开始还是蛮期待有后续的，提了一下就就结束了，之后再找找好文继续了解一下，所以这篇文章我更想叫做从零实现一个 tiny hooks」
 
 ### React Router
 
