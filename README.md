@@ -34,6 +34,12 @@
 - :white_check_mark:[从零实现一个 tiny hooks，知其然知其所以然](https://github.com/brickspert/blog/issues/26)「这里我改了博主的原标题【React Hooks 原理】，为啥呢，博主这篇文章也写得不错，从零实现了一个 tiny hooks，不过对于开篇提的几个问题，在后续解释的时候略微简单，第一遍读的时候还是觉得有点懵，就那些问题如果没有看其它一些介绍的话还不太清楚，所以这篇读的话后续有点吃力，但这个实现的 tiny hooks 还是比较出神入化的，讲的比较清楚，至于后面 React 官方用链表实现那里就结束了，开始还是蛮期待有后续的，提了一下就就结束了，之后再找找好文继续了解一下，所以这篇文章我更想叫做从零实现一个 tiny hooks」
 - :white_check_mark:[React 项目性能分析及优化](https://github.com/brickspert/blog/issues/36)「这篇文章由浅入深的讲解了常用的一些性能优化的方式，从 Chrome 自带的性能查看到使用 React 相关工具，再到最后引入一些平常写代码的时候需要注意的点，为什么会有这个坑，以及遇到一些坑的解决方式。纵观可以看出作者优秀的思维，借用评论区的一些术语来说，就是在编码之前就要思考怎么规划，编码之中还要对代码进行思考，最后在页面的时候可以查看性能分析，根据结果以及结合工具再反复思考。」
 
+
+### React Hooks
+
+- :white_check_mark:[React Hooks 使用误区，驳官方文档](https://github.com/brickspert/blog/issues/45)「在我工作之初那会，也遇到过和作者相同的问题，一些关于 hooks 的写法也相同，问过同届的同事也大概就说了一下 useCallback 和 useMemo 用法以及区别，然而看完这篇博客之后又是醍醐灌顶，感觉看完之后对于 React 源码这块想要了解的心思更多了，等看一些文章之后，我会开始学习一下 React 源码。而就在最近，我其实在工作中使用 useCallback 不算很多的，有朋友说他们要求就是只要函数就会包一层 useCallback，当时我也很纳闷，如果都必须包一层，那用这个有啥意义，干脆直接集成进去就好了。看完文章之后我立即转发了过去，受益啦。而后续文章提及的 ahooks 工作中也有使用，确实挺香的，在这里也说下就是之后也会来学习一下，我觉得还是很重要的」
+
+
 ### React Router
 
 - :white_check_mark:[react-router v4 使用 history 控制路由跳转](https://github.com/brickspert/blog/issues/3)「关于 react-router 的一些思考，主要是关于这个 history 跳转的问题，其中例举了三种方法，不过现在看组内写的代码，是在使用 react-router-dom 中的 useHistory，这个用起来比较方便，直接在组件中 `const history = useHistory();` 使用即可」
