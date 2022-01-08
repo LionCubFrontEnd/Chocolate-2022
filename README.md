@@ -38,6 +38,10 @@
 
 - :white_check_mark:[react-router v4 使用 history 控制路由跳转](https://github.com/brickspert/blog/issues/3)「关于 react-router 的一些思考，主要是关于这个 history 跳转的问题，其中例举了三种方法，不过现在看组内写的代码，是在使用 react-router-dom 中的 useHistory，这个用起来比较方便，直接在组件中 `const history = useHistory();` 使用即可」
 
+### React-use
+
+- :white_check_mark:[useRequest-蚂蚁中台标准请求 Hooks](https://github.com/brickspert/blog/issues/35)「一篇关于 ahooks 的介绍，这种自定义 hook 其实工作阶段使用了 antd pro 之后了解到的，就是从官方文档底部的推荐看到的，当时打开后就发现了新世界一样，有了这些优秀的 Hooks 之后，许多一些逻辑都可以复用了，而且解决方式更简单方便了，效率拉满」
+
 
 ### Redux
 
