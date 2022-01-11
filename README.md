@@ -20,7 +20,9 @@
 
 ## 2022 产出文章
 
-> todo...
+
+- :pencil2:[GitHub 到底怎么找优秀的开源项目？有些资源自己找就可以了 | 非常实用技巧 | 效率起飞](https://github.com/LionCubFrontEnd/Chocolate-2022/issues/1)
+
 
 ## 2022 阅读的一些优秀文章
 
