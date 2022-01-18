@@ -56,6 +56,10 @@
 - :white_check_mark:[完全理解 redux（从零实现一个 redux）](https://github.com/brickspert/blog/issues/22)「这篇文章真的是高赞👍🏻，过去那会关于 redux 理解还不够清晰，看完了之后醍醐灌顶，我是看了两遍才理解清楚，第一遍的时候有些地方感觉看的不是很明白，第二遍看的时候就彻底懂了，发现发布-订阅这种设计模式到处都有用到，以及那个 compose 源码的写法，难怪以前看面试题的时候经典遇到要用 reduce 写法，好神奇的感觉，不知不觉就被带入这块知识当中。但我觉得最精华的部分应该就是中间件那块了，过去学习 Koa 的时候就有遇到中间件的概念，但是一直没理解明白，这次看到 redux 文章之后一下就明白了，博主真是十分用心，膜拜，我觉得对于 redux 不太理解或者仅仅使用的同学都可以看一看，最棒的教程」
 - :white_check_mark:[Recoil - Facebook 官方 React 状态管理器](https://github.com/brickspert/blog/issues/38)「这篇讲了 React 状态管理器，先 mark 一下」
 
+### React 源码
+
+- :ballot_box_with_check:[React技术揭秘](https://react.iamkasong.com/)「最近一直在看的文档，先努力看完，后续再回顾一遍。」
+
 
 ### 微前端
 - :white_check_mark:[基于微前端的大型中台项目融合方案](https://github.com/brickspert/blog/issues/41)
