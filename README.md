@@ -22,6 +22,7 @@
 
 
 - :pencil2:[GitHub 到底怎么找优秀的开源项目？有些资源自己找就可以了 | 非常实用技巧 | 效率起飞](https://github.com/LionCubFrontEnd/Chocolate-2022/issues/1)
+- :pencil2:[前端移动端适配 - 媒体查询适配方案（个人笔记）](https://github.com/LionCubFrontEnd/Chocolate-2022/issues/2)
 
 
 ## 2022 阅读的一些优秀文章
