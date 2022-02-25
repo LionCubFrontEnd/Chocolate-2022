@@ -21,8 +21,9 @@
 ## 2022 产出文章
 
 
-- :pencil2:[GitHub 到底怎么找优秀的开源项目？有些资源自己找就可以了 | 非常实用技巧 | 效率起飞](https://github.com/LionCubFrontEnd/Chocolate-2022/issues/1)
-- :pencil2:[前端移动端适配 - 媒体查询适配方案（个人笔记）](https://github.com/LionCubFrontEnd/Chocolate-2022/issues/2)
+- :pencil2:[GitHub 到底怎么找优秀的开源项目？有些资源自己找就可以了 | 非常实用技巧 | 效率起飞](https://github.com/LionCubFrontEnd/Chocolate-2022/issues/1)（:trophy: 创作时间：1 月 10 日）
+- :pencil2:[前端移动端适配 - 媒体查询适配方案（个人笔记）](https://github.com/LionCubFrontEnd/Chocolate-2022/issues/2)(:trophy: 创作时间：2 月 10 日)
+- :pencil2:[关于 antd@4 之后 tree 树形控件不能横向排列这件事](https://github.com/LionCubFrontEnd/Chocolate-2022/issues/3)(:trophy: 创作时间：2 月 25 日)
 
 
 ## 2022 阅读的一些优秀文章
